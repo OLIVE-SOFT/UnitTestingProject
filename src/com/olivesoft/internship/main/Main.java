@@ -1,4 +1,4 @@
-package main;
+package com.olivesoft.internship.main;
 import java.util.Scanner;
 
     public class Main {
