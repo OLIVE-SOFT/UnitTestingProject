@@ -1,22 +1,22 @@
 # Unit Testing Project
 
-unit test simply verifies that individual units of code works as expected .
+Unit test simply verifies that individual units of code works as expected.
 the tests are written in the form of functions that will determine a returned value equals
 the value you were expecting when you wrote the function.
 # Getting Started
 
-[JUnit](http://junit.org/) is an open-source Java Unit Testing Framework designed by Kent Beck, Erich Gamma. 
+[JUnit](http://junit.org/) is an open-source Java Unit Testing Framework designed by Kent Beck,Erich Gamma. 
 It is the de facto standard for Java Unit Testing.
-JUnit is not included in JDK, but included in most of the IDEs such as Eclipse and NetBeans.
+JUnit is not included in JDK,but included in most of the IDEs such as Eclipse and NetBeans.
 
 # Installing
 
 ###### Download the Eclipse Installer.
-Download Eclipse Installer from [Eclipse](http://www.eclipse.org/downloads) ...
-Start the Eclipse Installer executable. ...
-Select the package to install. ...
-Select your installation folder. ...
-Launch Eclipse.
+-Npm install -g generator-jhipsterDownload Eclipse Installer from [Eclipse](http://www.eclipse.org/downloads) 
+-Start the Eclipse Installer executable.
+-Select the package to install. 
+-Select your installation folder. 
+-Launch Eclipse.
 
 ###### Installing and Using JUnit
 
@@ -36,8 +36,8 @@ Run Test case (or Test Suite): To run a test case (or test suite), right-click t
 
 # Test
 
-testing arithmetic operations on two integers.
-example
+###### Testing arithmetic operations on two integers.
+Example
 -Write an addition function. Test it carefully, change it, repeat until it works.
 -Do the same for subtraction, multiplication, division functions.
 
