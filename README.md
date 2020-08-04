@@ -5,7 +5,7 @@ the tests are written in the form of functions that will determine a returned va
 the value you were expecting when you wrote the function.
 # Getting Started
 
-JUnit (http://junit.org/) is an open-source Java Unit Testing Framework designed by Kent Beck, Erich Gamma. 
+[JUnit] (http://junit.org/) is an open-source Java Unit Testing Framework designed by Kent Beck, Erich Gamma. 
 It is the de facto standard for Java Unit Testing.
 JUnit is not included in JDK, but included in most of the IDEs such as Eclipse and NetBeans.
 
