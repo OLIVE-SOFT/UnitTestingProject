@@ -1,4 +1,4 @@
-#Project Title
+#Unit Testing Project
 
 unit test simply verifies that individual units of code works as expected .
 the tests are written in the form of functions that will determine a returned value equals
