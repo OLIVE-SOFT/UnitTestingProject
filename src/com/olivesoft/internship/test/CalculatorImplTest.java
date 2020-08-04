@@ -1,4 +1,4 @@
-package test;
+package com.olivesoft.internship.test;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
