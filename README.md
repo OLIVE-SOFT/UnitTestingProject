@@ -12,7 +12,7 @@ JUnit is not included in JDK, but included in most of the IDEs such as Eclipse a
 # Installing
 
 ###### Download the Eclipse Installer.
-Download Eclipse Installer from http://www.eclipse.org/downloads. ...
+Download Eclipse Installer from [Eclipse](http://www.eclipse.org/downloads) ...
 Start the Eclipse Installer executable. ...
 Select the package to install. ...
 Select your installation folder. ...
@@ -20,7 +20,7 @@ Launch Eclipse.
 
 ###### Installing and Using JUnit
 
-Installing JUnit: Goto http://junit.org/ ⇒ "Download and Install Guide" ⇒ Download the "junit.jar" and "hamcrest-core.jar". 
+Installing JUnit: Goto[JUnit](http://junit.org/) ⇒ "Download and Install Guide" ⇒ Download the "junit.jar" and "hamcrest-core.jar". 
 You could download the API documentation as well as the source code.
 Using JUnit: To use the JUnit, include JUnit jar-files "junit-4.##.jar" and "hamcrest-core-1.##.jar" in your CLASSPATH.
 Using JUnit under Eclipse
