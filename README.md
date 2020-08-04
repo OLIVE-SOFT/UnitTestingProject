@@ -1,4 +1,4 @@
-#Unit Testing Project
+# Unit Testing Project
 
 unit test simply verifies that individual units of code works as expected .
 the tests are written in the form of functions that will determine a returned value equals
@@ -9,7 +9,7 @@ JUnit (http://junit.org/) is an open-source Java Unit Testing Framework designed
 It is the de facto standard for Java Unit Testing.
 JUnit is not included in JDK, but included in most of the IDEs such as Eclipse and NetBeans.
 
-#Installing
+# Installing
 
 Download the Eclipse Installer.
 Download Eclipse Installer from http://www.eclipse.org/downloads. ...
@@ -34,7 +34,7 @@ Create Test case (or Test Suite): To create a new JUnit test case (or test suite
 ⇒ File ⇒ Others ⇒ Java ⇒ JUnit ⇒ JUnit test case (or JUnit test suite).
 Run Test case (or Test Suite): To run a test case (or test suite), right-click the file ⇒ Run As ⇒ JUnit Test.
 
-#Test
+# Test
 
 testing arithmetic operations on two integers.
 example
@@ -43,7 +43,7 @@ example
 
  @Test header specifies that the function definitionis indeed a test function that JUnit can run separately.
  
-#Built With
+# Built With
  
 Eclipse IDE
 
