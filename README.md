@@ -3,7 +3,7 @@
 unit test simply verifies that individual units of code works as expected .
 the tests are written in the form of functions that will determine a returned value equals
 the value you were expecting when you wrote the function.
-#Getting Started
+# Getting Started
 
 JUnit (http://junit.org/) is an open-source Java Unit Testing Framework designed by Kent Beck, Erich Gamma. 
 It is the de facto standard for Java Unit Testing.
@@ -11,14 +11,14 @@ JUnit is not included in JDK, but included in most of the IDEs such as Eclipse a
 
 # Installing
 
-Download the Eclipse Installer.
+###### Download the Eclipse Installer.
 Download Eclipse Installer from http://www.eclipse.org/downloads. ...
 Start the Eclipse Installer executable. ...
 Select the package to install. ...
 Select your installation folder. ...
 Launch Eclipse.
 
-Installing and Using JUnit
+###### Installing and Using JUnit
 
 Installing JUnit: Goto http://junit.org/ ⇒ "Download and Install Guide" ⇒ Download the "junit.jar" and "hamcrest-core.jar". 
 You could download the API documentation as well as the source code.
@@ -47,6 +47,11 @@ example
  
 Eclipse IDE
 
+# Authors
+
+Hanen KALLEL
+Aya ZOUAY
+Kouloud MOALLA
 
 
  
