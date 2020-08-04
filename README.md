@@ -1,6 +1,7 @@
 # Unit Testing Project
 
 Unit test simply verifies that individual units of code works as expected.
+
 The tests are written in the form of functions that will determine a returned value equals
 the value you were expecting when you wrote the function.
 # Getting Started
