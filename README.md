@@ -15,9 +15,13 @@ JUnit is not included in JDK,but included in most of the IDEs such as Eclipse an
 
 ###### Download the Eclipse Installer.
 -Npm install -g generator-jhipsterDownload Eclipse Installer from [Eclipse](http://www.eclipse.org/downloads) 
+
 -Start the Eclipse Installer executable.
+
 -Select the package to install. 
+
 -Select your installation folder. 
+
 -Launch Eclipse.
 
 ###### Installing and Using JUnit
